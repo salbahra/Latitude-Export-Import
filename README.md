@@ -33,3 +33,5 @@ I am not responsible for data loss or corruption. Please use this at your own ri
 Data is never stored on the server however a $_SESSION variable holds all of your location history while you log out/in between accounts to insert it back in. PHP will become available soon if you wish to run on your own server.
 
 The duration of sending your history may take up to 30 minutes or more depending on how many locations you have. For 12,000 locations it took about 30 mins. Please be patient.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/4993921353734cef5a34e19a5def9944 "githalytics.com")](http://githalytics.com/salbahra/Latitude-Export-Import)
