@@ -6,10 +6,10 @@ Migrates Google Latitude history from one account to another.
 Requirements
 ------------
 
-+You must have a web server with PHP installed
-+You must have a Google API code https://code.google.com/apis/console/
-+You must download a copy of the PHP API available from http://code.google.com/p/google-api-php-client/
-+You must edit the PHP with your API codes once obtained from above
++ You must have a web server with PHP installed
++ You must have a Google API code https://code.google.com/apis/console/
++ You must download a copy of the PHP API available from http://code.google.com/p/google-api-php-client/
++ You must edit the PHP with your API codes once obtained from above
 
 Prerequisites
 -------------
