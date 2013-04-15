@@ -1,4 +1,4 @@
-Latitude-Export-Import
+[Latitude-Export-Import](http://salbahra.github.io/Latitude-Export-Import/)
 ======================
 
 Migrates Google Latitude history from one account to another.
